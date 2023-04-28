@@ -1,0 +1,12 @@
+D:\Help\StudentHelp\AtHomeRecipes.Data\bin\Debug\net7.0\AtHomeRecipes.Data.deps.json
+D:\Help\StudentHelp\AtHomeRecipes.Data\bin\Debug\net7.0\AtHomeRecipes.Data.dll
+D:\Help\StudentHelp\AtHomeRecipes.Data\bin\Debug\net7.0\AtHomeRecipes.Data.pdb
+D:\Help\StudentHelp\AtHomeRecipes.Data\obj\Debug\net7.0\AtHomeRecipes.Data.csproj.AssemblyReference.cache
+D:\Help\StudentHelp\AtHomeRecipes.Data\obj\Debug\net7.0\AtHomeRecipes.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Help\StudentHelp\AtHomeRecipes.Data\obj\Debug\net7.0\AtHomeRecipes.Data.AssemblyInfoInputs.cache
+D:\Help\StudentHelp\AtHomeRecipes.Data\obj\Debug\net7.0\AtHomeRecipes.Data.AssemblyInfo.cs
+D:\Help\StudentHelp\AtHomeRecipes.Data\obj\Debug\net7.0\AtHomeRecipes.Data.csproj.CoreCompileInputs.cache
+D:\Help\StudentHelp\AtHomeRecipes.Data\obj\Debug\net7.0\AtHomeRecipes.Data.dll
+D:\Help\StudentHelp\AtHomeRecipes.Data\obj\Debug\net7.0\refint\AtHomeRecipes.Data.dll
+D:\Help\StudentHelp\AtHomeRecipes.Data\obj\Debug\net7.0\AtHomeRecipes.Data.pdb
+D:\Help\StudentHelp\AtHomeRecipes.Data\obj\Debug\net7.0\ref\AtHomeRecipes.Data.dll

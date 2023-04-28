@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AtHomeRecipies.UI/1.0.0": {
+        "dependencies": {
+          "AtHomeRecipes.Data": "1.0.0",
+          "AtHomeRecipes.Repository": "1.0.0"
+        },
+        "runtime": {
+          "AtHomeRecipies.UI.dll": {}
+        }
+      },
+      "AtHomeRecipes.Data/1.0.0": {
+        "runtime": {
+          "AtHomeRecipes.Data.dll": {}
+        }
+      },
+      "AtHomeRecipes.Repository/1.0.0": {
+        "dependencies": {
+          "AtHomeRecipes.Data": "1.0.0"
+        },
+        "runtime": {
+          "AtHomeRecipes.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtHomeRecipies.UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AtHomeRecipes.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AtHomeRecipes.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

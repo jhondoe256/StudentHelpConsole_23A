@@ -1,0 +1,24 @@
+1. Make class libaries => dotnet new classlib -o "NameOfTheFile"
+    A. Make 2 of them: .Data layer and .Repository layer
+      I.  dotnet new classlib -o "AtHomeRecipes.Data" (data layer)
+      II. dotnet new classlib -o "AtHomeRecipes.Repository" (repository layer)
+    class libaries they just "hold data" for future use.
+
+2. Make the 'Front-Facing' application.
+    A . Only have one, but there can be multiple
+        I. dotnet new console -o "NameOfTheFile.UI"
+
+3. We need to link the AtHomeRecipes.UI to AtHomeRecipes.Data 
+   and AtHomeRecipes.Repository.
+    A. dotnet add .\AtHomeRecipies.UI\ reference .\AtHomeRecipes.Data\
+    B. dotnet add .\AtHomeRecipies.UI\ reference .\AtHomeRecipes.Repository\
+
+4. We need ot line the AtHomeRecipes.Repository to AtHomeRecipes.Data
+    A. dotnet add .\AtHomeRecipes.Repository\ reference .\AtHomeRecipes.Data\
+
+5. Create a SOLUTION file and link the project(s) to the solution file.
+    A. dotnet new sln -n "NameOfTheFile"
+    B. dotnet sln add .\AtHomeRecipes.Data\
+    C. dotnet sln add .\AtHomeRecipes.Repository\
+    D. dotnet sln add .\AtHomeRecipies.UI\
+6. Do A donet build int the terminal

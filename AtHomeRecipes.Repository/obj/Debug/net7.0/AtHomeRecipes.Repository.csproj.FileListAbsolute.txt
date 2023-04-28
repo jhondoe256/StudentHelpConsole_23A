@@ -1,0 +1,15 @@
+D:\Help\StudentHelp\AtHomeRecipes.Repository\bin\Debug\net7.0\AtHomeRecipes.Repository.deps.json
+D:\Help\StudentHelp\AtHomeRecipes.Repository\bin\Debug\net7.0\AtHomeRecipes.Repository.dll
+D:\Help\StudentHelp\AtHomeRecipes.Repository\bin\Debug\net7.0\AtHomeRecipes.Repository.pdb
+D:\Help\StudentHelp\AtHomeRecipes.Repository\obj\Debug\net7.0\AtHomeRecipes.Repository.csproj.AssemblyReference.cache
+D:\Help\StudentHelp\AtHomeRecipes.Repository\obj\Debug\net7.0\AtHomeRecipes.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Help\StudentHelp\AtHomeRecipes.Repository\obj\Debug\net7.0\AtHomeRecipes.Repository.AssemblyInfoInputs.cache
+D:\Help\StudentHelp\AtHomeRecipes.Repository\obj\Debug\net7.0\AtHomeRecipes.Repository.AssemblyInfo.cs
+D:\Help\StudentHelp\AtHomeRecipes.Repository\obj\Debug\net7.0\AtHomeRecipes.Repository.csproj.CoreCompileInputs.cache
+D:\Help\StudentHelp\AtHomeRecipes.Repository\obj\Debug\net7.0\AtHomeRecipes.Repository.dll
+D:\Help\StudentHelp\AtHomeRecipes.Repository\obj\Debug\net7.0\refint\AtHomeRecipes.Repository.dll
+D:\Help\StudentHelp\AtHomeRecipes.Repository\obj\Debug\net7.0\AtHomeRecipes.Repository.pdb
+D:\Help\StudentHelp\AtHomeRecipes.Repository\obj\Debug\net7.0\ref\AtHomeRecipes.Repository.dll
+D:\Help\StudentHelp\AtHomeRecipes.Repository\bin\Debug\net7.0\AtHomeRecipes.Data.dll
+D:\Help\StudentHelp\AtHomeRecipes.Repository\bin\Debug\net7.0\AtHomeRecipes.Data.pdb
+D:\Help\StudentHelp\AtHomeRecipes.Repository\obj\Debug\net7.0\AtHomeRecipes.Repository.csproj.CopyComplete
